@@ -1,24 +1,24 @@
-Este es un proyecto de programación intermedio-avanzado que se enfoca en el uso de buenas prácticas y una estructura de código limpia utilizando HTML, CSS y JavaScript nativo.
+This is an intermediate-to-advanced programming project that focuses on using best practices and a clean code structure utilizing native HTML, CSS, and JavaScript.
 
-Foco del Proyecto
-Estructura Modular con JavaScript: Implementación de código JavaScript organizado en módulos para garantizar la escalabilidad y el mantenimiento a largo plazo.
+Project Focus
+Modular JavaScript Structure: Implementing JavaScript code organized into modules to ensure long-term scalability and maintainability.
 
-Diseño Responsivo de Calidad: Énfasis en el uso de CSS Grid y Flexbox para construir layouts complejos que funcionen perfectamente en diferentes tamaños de pantalla.
+Quality Responsive Design: Emphasis on using CSS Grid and Flexbox to build complex layouts that work perfectly across different screen sizes.
 
-Manejo Eficiente del DOM: Prácticas para manipular el Document Object Model (DOM) de manera eficiente, evitando cuellos de botella en el rendimiento.
+Efficient DOM Manipulation: Practices for efficiently manipulating the Document Object Model (DOM), preventing performance bottlenecks.
 
-Código Limpio y Comentado: Priorización de la legibilidad del código siguiendo convenciones de nombrado claras y comentarios útiles.
+Clean and Commented Code: Prioritization of code readability by following clear naming conventions and useful comments.
 
-Tecnologías Utilizadas
-Trabajamos con las tecnologías fundamentales de la web:
+Technologies Used
+We work with the fundamental web technologies:
 
-Estructura: HTML5 semántico.
+Structure: Semantic HTML5.
 
-Estilos: CSS3 puro (usando variables CSS para la gestión de temas).
+Styles: Pure CSS3 (using CSS variables for theme management).
 
-Lógica: JavaScript (ES6+) enfocado en programación funcional y orientada a objetos básica.
+Logic: Native JavaScript (ES6+) focused on functional and basic object-oriented programming.
 
-Contribución
-¡Agradecemos mucho las contribuciones! Si estás listo para llevar tus habilidades de frontend al siguiente nivel, por favor, revisa el archivo [enlace a tu archivo CONTRIBUTING.md].
+Contribution
+We greatly appreciate contributions! If you are ready to take your frontend skills to the next level, please review the [link to your CONTRIBUTING.md file].
 
-Expectativas: Se espera que los colaboradores tengan un entendimiento sólido de HTML/CSS/JS y estén familiarizados con el uso de Git y GitHub para el control de versiones.
+Expectations: Contributors are expected to have a solid understanding of HTML/CSS/JS and be familiar with the use of Git and GitHub for version control.
